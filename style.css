@@ -36,11 +36,11 @@ body logo-section {
 }
 .main-buttons .meals-button {
     display: flex;
-	flex-direction: row;
+    flex-direction: row;
     justify-content: center;
     width: 100%;
-    margin-top: 350px;
-	margin-left: -100px
+    margin-top: 251px;
+    margin-left: -100px
 }
 
 .main-buttons .drinks-button {
